@@ -10,9 +10,9 @@
       "Animation",
       "Sound"
     ],
-    "InternalName": "VFXEditor",
-    "AssemblyVersion": "1.9.1.5",
-    "TestingAssemblyVersion": "1.9.1.5",
+    "InternalName": "VFXEditor-Test",
+    "AssemblyVersion": "1.9.1.6",
+    "TestingAssemblyVersion": "1.9.1.6",
     "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
