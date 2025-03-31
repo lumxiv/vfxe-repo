@@ -1,8 +1,8 @@
 [
   {
-    "Author": "ocealot",
-    "Name": "[TEST] VFXEditor",
-    "Punchline": "VFXEditor Beta Builds",
+    "Author": "ocealot,lumxiv",
+    "Name": "[LUMXIV] VFXEditor",
+    "Punchline": "VFXEditor lumxiv builds (NOT THE OFFICIAL REPO)",
     "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
     "Tags": [
       "VFX",
@@ -10,19 +10,19 @@
       "Animation",
       "Sound"
     ],
-    "InternalName": "VFXEditor-Test",
-    "AssemblyVersion": "1.9.1.5",
-    "TestingAssemblyVersion": "1.9.1.5",
+    "InternalName": "VFXEditor-Beta",
+    "AssemblyVersion": "0.0.4.0",
+    "TestingAssemblyVersion": "0.0.4.0",
     "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
-    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
-    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
+    "LastUpdate": 1743419066,
+    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.4.0/VFXEditor-Beta.zip",
+    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.4.0/VFXEditor-Beta.zip",
+    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.4.0/VFXEditor-Beta.zip",
     "IconUrl": "https://raw.githubusercontent.com/lumxiv/Dalamud-VFXEditor/main/assets/icon.png"
   }
 ]
