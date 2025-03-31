@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "ocealot",
+    "Name": "[TEST] VFXEditor",
+    "Punchline": "VFXEditor Beta Builds",
+    "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
+    "Tags": [
+      "VFX",
+      "AVFX",
+      "Animation",
+      "Sound"
+    ],
+    "InternalName": "VFXEditor-Test",
+    "AssemblyVersion": "1.9.1.5",
+    "TestingAssemblyVersion": "1.9.1.5",
+    "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "LastUpdate": 1618608322,
+    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
+    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
+    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
+    "IconUrl": "https://raw.githubusercontent.com/lumxiv/Dalamud-VFXEditor/main/assets/icon.png"
+  }
+]
