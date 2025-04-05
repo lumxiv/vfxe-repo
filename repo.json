@@ -11,8 +11,8 @@
       "Sound"
     ],
     "InternalName": "VFXEditor-Test",
-    "AssemblyVersion": "1.9.1.6",
-    "TestingAssemblyVersion": "1.9.1.6",
+    "AssemblyVersion": "1.9.1.7",
+    "TestingAssemblyVersion": "1.9.1.7",
     "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -20,9 +20,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1743419066,
-    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
-    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
-    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/api12-test/api12-test.zip",
+    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/dev-test/dev-test.zip",
+    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/dev-test/dev-test.zip",
+    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/dev-test/dev-test.zip",
     "IconUrl": "https://raw.githubusercontent.com/lumxiv/Dalamud-VFXEditor/main/assets/icon.png"
   }
 ]
