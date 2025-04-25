@@ -1,8 +1,7 @@
 Main repo https://github.com/lumxiv/Dalamud-VFXEditor
 
-Something something Fight Club rules
-
 /vfxbeta to toggle UI
+Make sure to disable other instances of VFXEditor before enabling this.
 
 Shove this in custom plugin repositories `/xlsettings > Experimental`:
 ```
