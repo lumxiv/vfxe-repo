@@ -1,3 +1,5 @@
+⚠️⚠️⚠️ NOT A SUBSTITUTE FOR THE OFFICIAL REPO, IF YOU DON'T KNOW WHY YOU'RE HERE, TURN BACK ⚠️⚠️⚠️
+
 Main repo https://github.com/lumxiv/Dalamud-VFXEditor
 
 /vfxbeta to toggle UI
