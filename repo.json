@@ -11,18 +11,18 @@
       "Sound"
     ],
     "InternalName": "VFXEditor-Beta",
-    "AssemblyVersion": "0.0.7.0",
-    "TestingAssemblyVersion": "0.0.7.0",
+    "AssemblyVersion": "0.0.8.0",
+    "TestingAssemblyVersion": "0.0.8.0",
     "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1743419066,
-    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.7.0/VFXEditor-Beta.zip",
-    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.7.0/VFXEditor-Beta.zip",
-    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.7.0/VFXEditor-Beta.zip",
+    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.8/VFXEditor-Beta.zip",
+    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.8/VFXEditor-Beta.zip",
+    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.8/VFXEditor-Beta.zip",
     "IconUrl": "https://raw.githubusercontent.com/lumxiv/Dalamud-VFXEditor/main/assets/icon.png"
   }
 ]
