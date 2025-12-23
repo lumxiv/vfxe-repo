@@ -2,8 +2,8 @@
   {
     "Author": "ocealot,lumxiv",
     "Name": "[LUMXIV] VFXEditor",
-    "Punchline": "VFXEditor lumxiv dev builds (NOT THE OFFICIAL REPO)",
-    "Description": "VFX, animation, and sound editing plugin. NOT THE OFFICIAL REPO",
+    "Punchline": "VFXEditor but scuffed (NOT BETA NOR THE OFFICIAL REPO)",
+    "Description": "NOT THE OFFICIAL REPO, SWITCH BACK TO IT ASAP",
     "Tags": [
       "VFX",
       "AVFX",
@@ -11,8 +11,8 @@
       "Sound"
     ],
     "InternalName": "VFXEditor-Beta",
-    "AssemblyVersion": "0.0.9",
-    "TestingAssemblyVersion": "0.0.9",
+    "AssemblyVersion": "0.0.10.0",
+    "TestingAssemblyVersion": "0.0.10.0",
     "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -20,9 +20,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1743419066,
-    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.9/VFXEditor-Beta.zip",
-    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.9/VFXEditor-Beta.zip",
-    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.9/VFXEditor-Beta.zip",
+    "DownloadLinkInstall": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.10.0/VFXEditor-Beta.zip",
+    "DownloadLinkUpdate": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.10.0/VFXEditor-Beta.zip",
+    "DownloadLinkTesting": "https://github.com/lumxiv/Dalamud-VFXEditor/releases/download/0.0.10.0/VFXEditor-Beta.zip",
     "IconUrl": "https://raw.githubusercontent.com/lumxiv/Dalamud-VFXEditor/main/assets/icon.png"
   }
 ]
